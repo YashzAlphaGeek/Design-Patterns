@@ -21,7 +21,7 @@ These design patterns are specifically concerned with communication between obje
 ## J2EE Patterns
 These design patterns are specifically concerned with the presentation tier. These patterns are identified by Sun Java Center.
 
-## Creational Patterns
+## Dive Into Creational Patterns
 ### Singleton Design Pattern
 
 Creating a class with a method that creates a new instance of the class if one does not exist. 
