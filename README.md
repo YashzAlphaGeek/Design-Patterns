@@ -21,8 +21,18 @@ These design patterns are specifically concerned with communication between obje
 ## J2EE Patterns
 These design patterns are specifically concerned with the presentation tier. These patterns are identified by Sun Java Center.
 
+## Creational Patterns
+### Singleton Design Pattern
 
-## Factory Design Pattern
+Creating a class with a method that creates a new instance of the class if one does not exist. 
+
+If an instance already exists, it simply returns a reference to that object. 
+
+To make sure that the object cannot be instantiated any other way, the constructor is made private.
+
+Example: Simple Login Module 
+
+### Factory Design Pattern
 
 Factory pattern is one of the most used design patterns in Java. This type of design pattern comes under creational pattern as this pattern provides one of the best ways to create an object.
 
