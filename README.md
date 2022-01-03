@@ -87,3 +87,15 @@ Assembling of computer - Tree Structure (One object can have multiple object)
 
 Tips:
 Operation performed on leaf node should be performed on the parent node.
+
+## Dive Into Behavioral Patterns
+### Observer Design Pattern
+
+The observer pattern is a software design pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods.
+
+Example: 
+- Youtube - Channel with lot of subscribers
+
+Tips:
+Subject -> Observer
+Observer -> Subject
