@@ -50,6 +50,7 @@ Example : Coco Cola, Mobile Phone
 Tips: 
 Use this pattern when there is multiple parameters in the constructor.
 
+## Dive Into Structural Patterns
 ### Adapter Design Pattern
 
 The adapter pattern converts the interface of a class into another interface the clients expects.
