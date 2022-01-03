@@ -62,3 +62,13 @@ Example:
 
 Tips: 
 Provide an Adapter between two different classes or interfaces
+
+### Composite Design Pattern
+
+Composite design patten allows you to have a tree structure and ask each node in the tree structure to perform a task.
+
+Example:
+Assembling of computer - Tree Structure (One object can have multiple object)
+
+Tips:
+Operation performed on leaf node should be performed on the parent node.
