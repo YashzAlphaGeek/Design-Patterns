@@ -48,3 +48,13 @@ A Builder class builds the final object step by step. This builder is independen
 Example : Coco Cola, Mobile Phone
 Tips: 
 Use this pattern when there is multiple parameters in the constructor.
+
+### Adapter Design Pattern
+
+The adapter pattern converts the interface of a class into another interface the clients expects.
+Adapter allows to reuse existing coding without changing it, as the adapter ensures the conversion between the different interfaces.
+
+Example:
+Yashwanth is having iPhone 8 he needs a charger to charge it but he have iPhone 5 charger with him given by his friend.
+Tips: 
+Provide an Adapter between two different classes or interfaces
