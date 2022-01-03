@@ -58,6 +58,6 @@ Adapter allows to reuse existing coding without changing it, as the adapter ensu
 Example:
 - Yashwanth is having iPhone 8 he needs a charger to charge it but he have iPhone 5 charger with him given by his friend.
 - Pen, Pilot Pen (Yashwanth having Pen doesn't work, so he get Pilot Pen from his friend)
-- 
+
 Tips: 
 Provide an Adapter between two different classes or interfaces
