@@ -39,3 +39,12 @@ Factory pattern is one of the most used design patterns in Java. This type of de
 In Factory pattern, we create object without exposing the creation logic to the client and refer to newly created object using a common interface.
 
 Example: OS differs for Android, IOS & Windows (Object Creation without exposing the logic)
+
+### Builder Design Pattern
+
+Builder pattern builds a complex object using simple objects and uses step by step approach.
+A Builder class builds the final object step by step. This builder is independent of other objects.
+
+Example : Coco Cola, Mobile Phone
+Tips: 
+Use this pattern when there is multiple parameters in the constructor.
