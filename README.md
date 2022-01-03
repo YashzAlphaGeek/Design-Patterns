@@ -50,6 +50,21 @@ Example : Coco Cola, Mobile Phone
 Tips: 
 Use this pattern when there is multiple parameters in the constructor.
 
+### Prototype Design Pattern
+
+Prototype pattern refers to creating duplicate object while keeping performance in mind.
+
+Example: 
+- Bookshop
+- Fetching of data from Database
+
+Tips:
+Creation of multiple prototype from a single prototype
+
+- Shallow Cloning
+- Deep Cloning
+
+
 ## Dive Into Structural Patterns
 ### Adapter Design Pattern
 
