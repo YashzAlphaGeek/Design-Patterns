@@ -99,3 +99,10 @@ Example:
 Tips:
 Subject -> Observer
 Observer -> Subject
+
+------------------------------------------------------------------------------------
+“Thanks for watching. If you liked this page, make sure to subscribe for more!”
+
+	First, solve the problem. Then, write the code. 
+------------------------------------------------------------------------------------
+:grinning:
